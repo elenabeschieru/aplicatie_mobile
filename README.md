@@ -8,4 +8,7 @@ Creat petru dispozitive mobile
 
 Foloseste: React Native,Redux,Firebase si alte librarii
 
+
+![alt text](https://github.com/elenabeschieru/aplicatie_mobile/blob/master/aa0ee9b1-6678-455e-924f-a567c694ecb9.jpg)
+
 ![alt text](https://github.com/elenabeschieru/aplicatie_mobile/blob/master/6c86fb48-7dc0-4908-8073-c709716ece9b.jpg)
